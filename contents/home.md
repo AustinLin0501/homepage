@@ -16,4 +16,4 @@ Email: ecozhenyulin@gmail.com
 城市经济学，发展经济学，量化经济史，微观应用计量经济学
 
 #### 本人简历
-[中文简历](https://austinlin0501.github.io/Austinzhenyu-Lin.github.io/CV.pdf)
+[中文简历](https://austinlin0501.github.io/Lin/CV.pdf)
