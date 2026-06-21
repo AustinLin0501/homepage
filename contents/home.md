@@ -11,7 +11,7 @@ Email: ecozhenyulin@gmail.com
 博士（硕博连读）, 城市经济与管理, 上海财经大学, 2022—2027.
 
 #### 研究兴趣
-城市经济学，发展经济学，量化经济史，微观应用计量经济学
+城市经济学，发展经济学，量化经济史，应用微观计量经济学
 
 #### 本人简历
 [中文简历 (PDF)](https://github.com/AustinLin0501/Lin/raw/main/CV.pdf)
